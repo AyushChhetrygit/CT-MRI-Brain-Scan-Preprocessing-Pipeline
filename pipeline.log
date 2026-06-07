@@ -1,0 +1,7 @@
+16:53:23 | INFO | CT (images): found 88 files
+16:53:23 | INFO | MRI (images): found 90 files
+16:53:23 | INFO | CT (masks): found 88 files
+16:53:24 | INFO | MRI (masks): found 90 files
+16:53:24 | INFO | Done — 534 slices in manifest, 0 volume issues
+16:53:24 | INFO | Manifest saved → dataset_manifest.csv
+16:53:24 | INFO | QC report  saved → qc_report.csv
