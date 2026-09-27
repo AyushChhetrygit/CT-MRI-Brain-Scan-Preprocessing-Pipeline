@@ -1,0 +1,6 @@
+numpy
+pandas
+pydicom
+nibabel
+opencv-python-headless
+tqdm
