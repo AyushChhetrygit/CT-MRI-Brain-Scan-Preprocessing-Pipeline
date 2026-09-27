@@ -262,25 +262,6 @@ Saves preprocessed slices as binary NumPy arrays (`float32` for images, `uint8` 
 
 ---
 
-## Citation
-
-If you use this pipeline or the JUH MR-CT dataset in your research, please cite:
-
-```bibtex
-@article{alkadi2022unpaired,
-  title   = {Unpaired MR-CT brain dataset for unsupervised image translation},
-  author  = {Al-Kadi, Omar S. and Almallahi, Israa and Abu-Srhan, Alaa 
-             and Abushariah, A. M. and Mahafza, Waleed},
-  journal = {Data in Brief},
-  volume  = {42},
-  pages   = {108109},
-  year    = {2022},
-  doi     = {10.1016/j.dib.2022.108109}
-}
-```
-
----
-
 ## License
 
 This project is for academic and research purposes. The JUH MR-CT dataset is subject to IRB approval terms and was collected in accordance with the Declaration of Helsinki. Please refer to the original dataset authors for data usage permissions.
